@@ -1,8 +1,41 @@
+---
+title: "STAT2170 - Assignment - 44939983"
+output:
+  html_notebook: default
+  pdf_document: default
+---
+
+# Question 1
+
+## Q1. A
+
+## Q1. B
+
+## Q1. C
+
+## Q1. D
+
+## Q1. E
+
+## Q1. F
+
+## Q1. G
+
+
+
+# Question 2
+
+## Q2. A
+
+## Q2. B
+
+## Q2. C
+
+## Q2. D
+
+## Q2. E
 
 
 
 
-```{r}
-
-```
 
